@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Aula_09_05</RootNamespace>
+    <RootNamespace>EJOGOS</RootNamespace>
   </PropertyGroup>
 
 </Project>
