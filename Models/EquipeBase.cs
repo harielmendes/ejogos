@@ -12,7 +12,7 @@ namespace Aula_09_05.Models
             //se o diretório não existir, criar a pasta.
             if (!Directory.Exists(pasta))
             {
-                Directory.CreateDirectory(caminho);
+                Directory.CreateDirectory(pasta);
             }
 
             if(!File.Exists(caminho))
